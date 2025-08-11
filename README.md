@@ -1,4 +1,4 @@
-# Taskify ✨ A Modern To-Do App
+# To-Do App✨
 
 <p align="center">
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
