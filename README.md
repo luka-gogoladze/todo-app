@@ -39,7 +39,7 @@
 ## 💡 Potential Future Improvements
 
 This project serves as a strong foundation. Future enhancements could include:
-- **Data Persistence**: Using `AsyncStorage` to save the to-do list locally, so tasks are not lost when the app closes.
+- **Data Persistence**: Using `Firebase` to save the to-do list on databse, so tasks are not lost.
 - **Animations**: Implementing `LayoutAnimation` or `react-native-reanimated` for fluid animations when adding or deleting tasks.
 - **User Authentication**: Adding a login/signup system to support multiple users.
 - **Cloud Sync**: Using a backend service like Firebase to sync a user's to-do list across multiple devices.
@@ -77,6 +77,4 @@ npx expo start
 Scan the QR code with the Expo Go app on your iOS or Android device.
 
 📫 Contact
-Your Name – Your Portfolio Website – your.email@example.com
-
-https://github.com/YOUR_USERNAME
+Luka Gogoladze - luka.gogoladze.dev@gmail.com
