@@ -76,5 +76,6 @@ Start the Expo development server:
 npx expo start
 Scan the QR code with the Expo Go app on your iOS or Android device.
 
+```
 📫 Contact
 Luka Gogoladze - luka.gogoladze.dev@gmail.com
