@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 #### 2. Installation
 Clone the repository to your local machine:
 ```bash
-git clone [https://github.com/luka-gogoladze/react-native-todo-app.git](https://github.com/luka-gogoladze/react-native-todo-app.git)
+git clone [https://github.com/luka-gogoladze/todo-app.git](https://github.com/luka-gogoladze/todo-app.git)
 Navigate into the project directory:
 
 cd todo-app
