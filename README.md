@@ -58,24 +58,29 @@ Clone the repository to your local machine:
 ```bash
 git clone [https://github.com/luka-gogoladze/todo-app.git](https://github.com/luka-gogoladze/todo-app.git)
 Navigate into the project directory:
-
+```
+```
 cd todo-app
+```
 Install the necessary dependencies:
-
-
+```
 npm install
-
-
+```
+```
 cd todo-app
+```
 Install the necessary dependencies:
-
+```
 npm install
+```
 3. Running the Application
 
 Start the Expo development server:
+```
 npx expo start
+```
 Scan the QR code with the Expo Go app on your iOS or Android device.
 
-```
+
 📫 Contact
 Luka Gogoladze - luka.gogoladze.dev@gmail.com
