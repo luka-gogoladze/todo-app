@@ -13,9 +13,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce0bce96-da6b-4d2d-93b8-b84db5f26313" width="300" />
-   <img src="https://github.com/user-attachments/assets/3dbebe56-f1c2-45f3-8f83-91410fde0a06" width="300" />
-   <img src="https://github.com/user-attachments/assets/bb138bd0-3c89-4b0c-90ee-8f46c5ccac36" width="300" />
+  <img src="https://github.com/user-attachments/assets/ce0bce96-da6b-4d2d-93b8-b84db5f26313" width="250" />
+   <img src="https://github.com/user-attachments/assets/3dbebe56-f1c2-45f3-8f83-91410fde0a06" width="250" />
+   <img src="https://github.com/user-attachments/assets/bb138bd0-3c89-4b0c-90ee-8f46c5ccac36" width="250" />
 </p>
 
 ## 🚀 Features
@@ -82,5 +82,11 @@ npx expo start
 Scan the QR code with the Expo Go app on your iOS or Android device.
 
 
-📫 Contact
-Luka Gogoladze - luka.gogoladze.dev@gmail.com
+## 👨‍💻 Contact Me
+
+If you have any questions, feedback, or would like to discuss this project, please feel free to contact me:
+
+-   **LinkedIn:** [Luka Gogoladze](https://www.linkedin.com/in/luka-gogoladze-dev/)
+-   **Email:** luka.gogoladze.dev@gmail.com
+
+Thank you for your interest in my project!
